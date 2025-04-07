@@ -1,0 +1,2 @@
+pygame>=2.0.0
+python-statemachine>=0.7.0
