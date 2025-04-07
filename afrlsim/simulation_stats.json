@@ -1,0 +1,17 @@
+{
+    "num_episodes": 1000,
+    "overall_victory_rate": 0.0,
+    "average_timesteps": 5.447,
+    "action_counts": {
+        "fire_missile": 1049,
+        "fire_big": 994,
+        "fire_small": 982,
+        "do_nothing": 2422
+    },
+    "q_table": {
+        "fire_missile": 0.95,
+        "fire_big": 0.8,
+        "fire_small": 0.5,
+        "do_nothing": 0.3
+    }
+}

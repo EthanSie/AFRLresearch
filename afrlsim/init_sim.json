@@ -1,0 +1,1 @@
+{ "client_token": "e7a72fa7-e5fb-43ca-aa26-27ac5599a996", "sim_type": "SINS", "sim_params": { "scenario": "scenarios.acumen", "headless": false, "step_size": 3000 } }
