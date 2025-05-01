@@ -1,0 +1,1311 @@
+
+==================================================
+Round 0 | 2025-04-24 18:03:32
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 10
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 100
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: False
+  Operational State: OPERATIONAL
+
+==================================================
+Round 1 | 2025-04-24 18:03:32
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 16}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 17}
+Action 5.7: {'action': 'fire_at', 'action_id': 5.7, 'entity_id': 5, 'target_entity_id': 18}
+Action 5.8: {'action': 'fire_at', 'action_id': 5.8, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.9: {'action': 'fire_at', 'action_id': 5.9, 'entity_id': 5, 'target_entity_id': 20}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+Action 8.1: {'action': 'activate_alarm', 'action_id': 8.1, 'entity_id': 8}
+
+Selected action: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 17}
+Action ID: 5.6
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 9
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 100
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: False
+  Operational State: OPERATIONAL
+
+==================================================
+Round 2 | 2025-04-24 18:03:32
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+Action 8.1: {'action': 'activate_alarm', 'action_id': 8.1, 'entity_id': 8}
+
+Selected action: {'action': 'activate_alarm', 'action_id': 8.1, 'entity_id': 8}
+Action ID: 8.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 9
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 100
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 3 | 2025-04-24 18:03:33
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 9
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 100
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 4 | 2025-04-24 18:03:33
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 9
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 95
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 5 | 2025-04-24 18:03:33
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 9
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 95
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 6 | 2025-04-24 18:03:33
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 9
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 95
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 7 | 2025-04-24 18:03:34
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 16}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 18}
+Action 5.7: {'action': 'fire_at', 'action_id': 5.7, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.8: {'action': 'fire_at', 'action_id': 5.8, 'entity_id': 5, 'target_entity_id': 20}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 18}
+Action ID: 5.6
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 8
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 95
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 8 | 2025-04-24 18:03:34
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 16}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 8
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 20
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 90
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 9 | 2025-04-24 18:03:34
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 16}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 8
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 19
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 85
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 10 | 2025-04-24 18:03:34
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 16}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action ID: 6.2
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 8
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 18
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 80
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 11 | 2025-04-24 18:03:35
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 16}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 8
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 17
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 75
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 12 | 2025-04-24 18:03:35
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 16}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action ID: 6.2
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 8
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 16
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 70
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 13 | 2025-04-24 18:03:35
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 16}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 18}
+Action 5.7: {'action': 'fire_at', 'action_id': 5.7, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.8: {'action': 'fire_at', 'action_id': 5.8, 'entity_id': 5, 'target_entity_id': 20}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 16}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 16}
+Action ID: 5.5
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 7
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 16
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 65
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 14 | 2025-04-24 18:03:35
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 7
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 15
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 60
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 15 | 2025-04-24 18:03:36
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 7
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 15
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 60
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 16 | 2025-04-24 18:03:36
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action ID: 6.2
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 7
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 14
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 60
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 17 | 2025-04-24 18:03:36
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 7
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 13
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 60
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 18 | 2025-04-24 18:03:37
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 7
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 12
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 60
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 19 | 2025-04-24 18:03:37
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 18}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.7: {'action': 'fire_at', 'action_id': 5.7, 'entity_id': 5, 'target_entity_id': 20}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 18}
+Action ID: 5.5
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 6
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 12
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 60
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 20 | 2025-04-24 18:03:38
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 6
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 12
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 55
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 21 | 2025-04-24 18:03:38
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 6
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 11
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 50
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 22 | 2025-04-24 18:03:39
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 6
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 11
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 45
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 23 | 2025-04-24 18:03:39
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 6
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 10
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 40
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 24 | 2025-04-24 18:03:40
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 6
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 10
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 40
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 25 | 2025-04-24 18:03:40
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 20}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 6
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 10
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 40
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 26 | 2025-04-24 18:03:41
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 20}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action ID: 5.2
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 5
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 10
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 40
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 27 | 2025-04-24 18:03:41
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 5
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 10
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 35
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 28 | 2025-04-24 18:03:42
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action ID: 6.2
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 5
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 9
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 30
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 29 | 2025-04-24 18:03:43
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action ID: 6.2
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 5
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 8
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 30 | 2025-04-24 18:03:44
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 5
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 8
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 31 | 2025-04-24 18:03:44
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 5
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 8
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 32 | 2025-04-24 18:03:45
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 20}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action ID: 6.3
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 5
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 7
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 33 | 2025-04-24 18:03:46
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 20}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action ID: 5.2
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 4
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 7
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 34 | 2025-04-24 18:03:48
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action ID: 6.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 4
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 6
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 35 | 2025-04-24 18:03:49
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 13}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.4: {'action': 'fire_at', 'action_id': 6.4, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 4
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 6
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 36 | 2025-04-24 18:03:50
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 13}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.4: {'action': 'fire_at', 'action_id': 6.4, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action ID: 0
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 4
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 6
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 25
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 37 | 2025-04-24 18:03:51
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 13}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.4: {'action': 'fire_at', 'action_id': 6.4, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 4
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 6
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 20
+  Buzzer Active: True
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 38 | 2025-04-24 18:03:53
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 13}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.4: {'action': 'fire_at', 'action_id': 6.4, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'buzzer_off', 'action_id': 7.1, 'entity_id': 7}
+Action ID: 7.1
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 4
+  Status: MissileEntityState.IDLE
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 6
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 20
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
+
+==================================================
+Round 39 | 2025-04-24 18:03:54
+==================================================
+
+Available actions:
+Action 0: {'action': 'none', 'action_id': 0, 'entity_id': None}
+Action 5.1: {'action': 'fire_at', 'action_id': 5.1, 'entity_id': 5, 'target_entity_id': 12}
+Action 5.2: {'action': 'fire_at', 'action_id': 5.2, 'entity_id': 5, 'target_entity_id': 13}
+Action 5.3: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action 5.4: {'action': 'fire_at', 'action_id': 5.4, 'entity_id': 5, 'target_entity_id': 15}
+Action 5.5: {'action': 'fire_at', 'action_id': 5.5, 'entity_id': 5, 'target_entity_id': 19}
+Action 5.6: {'action': 'fire_at', 'action_id': 5.6, 'entity_id': 5, 'target_entity_id': 20}
+Action 6.1: {'action': 'fire_at', 'action_id': 6.1, 'entity_id': 6, 'target_entity_id': 12}
+Action 6.2: {'action': 'fire_at', 'action_id': 6.2, 'entity_id': 6, 'target_entity_id': 13}
+Action 6.3: {'action': 'fire_at', 'action_id': 6.3, 'entity_id': 6, 'target_entity_id': 14}
+Action 6.4: {'action': 'fire_at', 'action_id': 6.4, 'entity_id': 6, 'target_entity_id': 15}
+Action 7.1: {'action': 'buzzer_on', 'action_id': 7.1, 'entity_id': 7}
+
+Selected action: {'action': 'fire_at', 'action_id': 5.3, 'entity_id': 5, 'target_entity_id': 14}
+Action ID: 5.3
+
+Countermeasure Status | Missile CM1 (ID: 5):
+  Ammo: 3
+  Status: MissileEntityState.RELOADING
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Gun CM2 (ID: 6):
+  Ammo: 6
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Jammer CM3 (ID: 7):
+  Battery: 20
+  Buzzer Active: False
+  Operational State: OPERATIONAL
+
+Countermeasure Status | Alarm CM4 (ID: 8):
+  Active: True
+  Operational State: OPERATIONAL
