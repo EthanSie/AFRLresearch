@@ -1,9 +1,0 @@
-{
-  "version": "1",
-  "network": "kryptowire.twingate.com",
-  "service_account_id": "78f749d4-0bd7-4085-b195-56df1727cbb0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQguilPb5afK38JW0mK\nlZ/uf8tnYHIGXfvPey/ONSqsBXahRANCAATsbusXylEStLDs0FDoOSQwZEN2k2Bw\neUfC98pGn5BFkF6x4jddDBWjh5VvLNpBaRMYBam4pZ5yOaHvsJi0uhqv\n-----END PRIVATE KEY-----",
-  "key_id": "y-Q0VpOx-W1OHGPH3RQQP66wyvthVwFmgly0j8v-t3A",
-  "expires_at": "2025-08-01T17:36:24+00:00",
-  "login_path": "/api/v4/headless/login"
-}
